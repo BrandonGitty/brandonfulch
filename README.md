@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brandonfulch
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning software development
+- 📫 You can reach me via email brand.fulch@gmail.com
