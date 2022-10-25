@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @brandonfulch
-- 👀 I’m interested in cyber security
 - 🌱 I’m currently studying cyber security at TAFE NSW
 - 📫 You can reach me via email brand.fulch@gmail.com
